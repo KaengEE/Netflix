@@ -7,5 +7,5 @@
 - Flex 사용
 - 반응형
 - 깃허브 페이지 배포
-- [사이트접속](https://hmu-a.github.io/Netflix/)
+- [사이트접속](https://KaengEE.github.io/Netflix/)
 - 인라인 주소 삽입: [나타낼이름],(주소창)
